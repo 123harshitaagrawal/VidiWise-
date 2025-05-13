@@ -105,3 +105,8 @@ Libraries: Whisper (OpenAI), Gemini API, dotenv, requests, OpenCV
 
 Deployment: Local (development/testing)
 
+yaml
+Copy
+Edit
+
+

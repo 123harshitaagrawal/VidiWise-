@@ -60,7 +60,7 @@ bash
 Copy
 Edit
 python app/main.py
-💻 Frontend Setup (Terminal 2)
+### 💻 Frontend Setup (Terminal 2)
 Navigate to the frontend folder:
 
 bash
@@ -79,13 +79,13 @@ bash
 Copy
 Edit
 npm start
-🔍 Test the App
+### 🔍 Test the App
 Use the YouTube Shorts links below to test how Vidiwise processes and summarizes video content:
 
 - [Sample Video 1](https://www.youtube.com/shorts/v0NdBk67zaQ)
 - [Sample Video 2](https://www.youtube.com/shorts/Tm3KCr10i4s)
 
-⚠️ Notes
+### ⚠️ Notes
 Keep both frontend and backend running simultaneously.
 
 If you run into issues:
@@ -96,7 +96,7 @@ Ensure your API key is correctly set in both the .env file and main.py.
 
 Verify internet access for API communication.
 
-📦 Tech Stack
+### 📦 Tech Stack
 Frontend: React.js, HTML, CSS, JavaScript
 
 Backend: Python, FastAPI
